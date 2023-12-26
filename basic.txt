@@ -1,8 +1,5 @@
 ls
 cd
 mkdir
-<<<<<<< HEAD
 rmdir
-=======
 rm
->>>>>>> dev
