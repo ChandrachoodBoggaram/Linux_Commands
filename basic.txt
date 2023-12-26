@@ -8,3 +8,5 @@ sed
 awk
 netstat
 ifconfig
+ip
+free
