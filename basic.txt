@@ -3,3 +3,4 @@ cd
 mkdir
 rmdir
 rm
+sed
