@@ -5,3 +5,4 @@ rmdir
 rm
 grep
 sed
+awk
