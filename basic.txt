@@ -4,3 +4,5 @@ mkdir
 rmdir
 rm
 sed
+netstat
+ifconfig
