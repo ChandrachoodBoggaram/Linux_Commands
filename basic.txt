@@ -5,3 +5,6 @@ rmdir
 rm
 grep
 sed
+netstat
+ifconfig
+
